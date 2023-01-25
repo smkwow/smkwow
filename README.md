@@ -21,4 +21,5 @@
   
   Desenvolvedor Front-end, apaixonado por tecnologia sempre em busca de conhecimento e novos desafios.
 <br/>
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smkwow&layout=compact)](https://github.com/smkwow/github-readme-stats)
